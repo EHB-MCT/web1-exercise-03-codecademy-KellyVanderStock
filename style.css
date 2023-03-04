@@ -15,3 +15,15 @@ p {
 .grijs {
 	color: #939598;
 }
+
+a {
+	background-color: #f65b5c;
+	padding: 15px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	background-color: #333;
+}
